@@ -25,6 +25,10 @@ namespace seeds
             Console.ReadLine();
             count++;
             carlson = -10;
+            Console.WriteLine("enter the scale of hardness for sand test, 1 - DUMB");
+            string dumbness = Console.ReadLine();
+            Console.WriteLine("IT DOESNT MATTER WHAT YOU THINK CAUSE IT WAS JUST DUMB");
+            Console.WriteLine("I HATE SAND -ANAKIN SKYWALKER");
 
 
 
